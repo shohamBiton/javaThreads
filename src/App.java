@@ -9,7 +9,7 @@ void task() {
 public class App {
     public static void main(String[] args) {
 
-        System.out.println("111");
+        System.out.println("1112");
 
         MyClass m=new MyClass();
         m.task();
